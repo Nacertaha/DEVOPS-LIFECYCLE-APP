@@ -62,6 +62,4 @@ Alert :
 
 ![TestRuleAlert](/img/TestRuleAlert.png)
 
-![AlertNotCre](/img/AlertNotCre.png)
 
-![ChannelCreation](/img/ChannelCreation.png)
